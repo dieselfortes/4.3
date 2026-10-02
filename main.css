@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color: #7272dd;
+    color: white;
+}
+
+.horizontal-list{
+    display flex: ;
+    padding: 0;
+  list-style-type: none;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+.section2{
+    background-color: rgb(255, 255, 255);
+}
